@@ -22,3 +22,18 @@ Docking Ports will allow you to launch vessels from anywhere.
 Helpful Notes for Modding:
 Unity Version: 2020.3.33f1
 Repurpose the LT-3 Landing Leg as a drill
+Need holding tanks for ore, lead, and plutonium
+Add 
+
+Currently working on:
+3d Modeling Drill (Strait_Six)
+
+To do list:
+3d Model Drill
+3d Model Holding Tanks
+3d Model Production Facility
+
+Possible Implementations/Ideas: 
+Salvaging
+  Salvaging Drones
+Mining Drones
