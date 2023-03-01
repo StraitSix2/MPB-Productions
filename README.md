@@ -9,7 +9,6 @@ Lead
 Plutonium
 
 Processing Trees can be chosen from a list:
-
 Ore --> Rocket Parts 
 Lead --> Advanced Parts 
 Plutonium --> Specialty Parts 
@@ -17,7 +16,6 @@ Plutonium --> Specialty Parts
 Items will have resource requirements based on size of part that will add up for manufacturing the build of your choice. 
 
 Docking Ports will allow you to launch vessels from anywhere. 
-
 
 Helpful Notes for Modding:
 Unity Version: 2020.3.33f1
